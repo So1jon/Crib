@@ -443,7 +443,7 @@ magnet:?xt=urn:btih:9f7a4c0c94a95680e40e0d38b1a65327308cd180&tr=http%3A%2F%2Fbt0
 <br />
 
 <details>
-<summary><strong>Autodesk AutoCAD 2026 [Ru/En] </strong></summary>
+<summary><strong>⚠️ Autodesk AutoCAD 2026 [Ru/En] </strong></summary>
 <br />
 
 Версия программы: W.60.0.0
@@ -513,7 +513,7 @@ AutoCAD – это больше, чем проектирование. Прида
 </details>
 
 <details>
-<summary><strong>Autodesk 3ds Max 2026 [Multi] </strong></summary>
+<summary><strong>⚠️ Autodesk 3ds Max 2026 [Multi] </strong></summary>
 <br />
 
 Версия программы: 28.0.0.4098
