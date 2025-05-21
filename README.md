@@ -108,6 +108,56 @@ http://you.vipant.uz/
 
 </details>
 
+<details>
+<summary><strong>Особенности сборки:</strong></summary>
+<br />
+
+— Интегрированы обновления по 8 апреля 2025 года;
+— Интегрирован .Net Framework 4.8.1;
+— Включен .Net Framework 3.5 (включая 2.0 и 3.0);
+— Системы не были в режиме аудита.
+
+</details>
+
+<details>
+<summary><strong>Список редакций:</strong></summary>
+<br />
+
+Windows 10 Home x86-x64
+Windows 10 Home N x86-x64
+Windows 10 Pro x86-x64
+Windows 10 Pro N x86-x64
+Windows 10 Home Single Language x86-x64
+Windows 10 Pro Education x86-x64
+Windows 10 Pro N Education x86-x64
+Windows 10 Pro for Workstations x86-x64
+Windows 10 Pro N for Workstations x86-x64
+Windows 10 Pro Single Language x86-x64
+Windows 10 Education x86-x64
+Windows 10 Education N x86-x64
+Windows 10 Enterprise for Virtual Desktops x86-x64
+Windows 10 Enterprise x86-x64
+Windows 10 Enterprise N x86-x64
+Windows 10 IoT Enterprise x86-x64
+
+</details>
+
+<details>
+<summary><strong>Контрольные суммы:</strong></summary>
+<br />
+
+en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x64_v25.04.09_by_adguard.iso
+MD5: b16765f127a94c8511ea4978ec0912d9
+SHA-1: a7c40b8f9b9ecc53dd5e1c5e9a1c7e54cc0dfea4
+SHA-256: e69eda2b72112106511e92af0ee464cb14db8f72069670044fe700de8d4593d4
+
+en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x86_v25.04.09_by_adguard.iso
+MD5: 1b47bf35c11824eec81c98f02f97504c
+SHA-1: 6ee41b605131e7313b2a4a1165a764c30486bdcd
+SHA-256: 01b4d7e1916f4537a226f713ec2730dbef19840c5c5cce0d3769c4a6e415b295
+
+</details>
+
 Описание:
 
 Сборка сделана на основе оригинальных образов MSDN. Были интегрированы обновления по 8 апреля 2025 года. В ней нет никаких косметических изменений и ничего не вырезано.
