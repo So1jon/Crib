@@ -438,6 +438,81 @@ magnet:?xt=urn:btih:9f7a4c0c94a95680e40e0d38b1a65327308cd180&tr=http%3A%2F%2Fbt0
 
 </details>
 
+<details>
+<summary><strong>Autodesk AEC Collection </strong></summary>
+<br />
+
+<details>
+<summary><strong>Autodesk AutoCAD 2026 [Ru/En] </strong></summary>
+<br />
+
+Версия программы: W.60.0.0
+Официальный сайт: [ссылка](https://www.autodesk.com/products/autocad/free-trial)
+Язык интерфейса: Русский, Английский
+
+Лечение: в комплекте
+Тип лекарства: замена файлов
+
+<details>
+<summary><strong>Системные требования:</strong></summary>
+<br />
+
+OS: 64-bit Microsoft® Windows® 11 and Windows 10.
+
+CPU: 2.5–2.9 GHz processor (base) ARM Processors are not supported.
+
+RAM: 8 GB
+
+Display: 1920 x 1080 with True Color
+
+GPU: 2 GB GPU with 29 GB/s Bandwidth and DirectX 11 compliant
+
+HDD: 10.0 GB (suggested SSD)
+
+.NET Framework version 8
+
+</details>
+
+<details>
+<summary><strong>Процедура лечения:</strong></summary>
+<br />
+
+1. Установить программу.
+
+2. Скопировать с заменой исполняемый файл acad.exe в корневую папку.
+
+3. Добавить в файл hosts по пути c:\Windows\System32\drivers\etc\ следующие адреса:
+
+```bash
+127.0.0.1  genuine-software.autodesk.com
+127.0.0.1  genuine-software1.autodesk.com
+127.0.0.1  genuine-software2.autodesk.com
+127.0.0.1 ase-cdn-stg.autodesk.com
+127.0.0.1 ase.autodesk.com
+``` 
+</details>
+
+
+<details>
+<summary><strong>🧲 Скачать по Magnet-ссылке:</strong></summary>
+<br />
+
+```bash
+magnet:?xt=urn:btih:a5914a46868167ce861daad3f7ca06083898a782&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d45283eabe2b24c40a62eea997494c%2Fannounce&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d45283eabe2b24c40a62eea997494c%2Fannounce
+``` 
+
+</details>
+
+
+</details>
+
+
+
+
+</details>
+
+
+
 
 ### You can contact me through:
 
