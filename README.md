@@ -126,20 +126,35 @@ http://you.vipant.uz/
 <br />
 
 Windows 10 Home x86-x64
+
 Windows 10 Home N x86-x64
+
 Windows 10 Pro x86-x64
+
 Windows 10 Pro N x86-x64
+
 Windows 10 Home Single Language x86-x64
+
 Windows 10 Pro Education x86-x64
+
 Windows 10 Pro N Education x86-x64
+
 Windows 10 Pro for Workstations x86-x64
+
 Windows 10 Pro N for Workstations x86-x64
+
 Windows 10 Pro Single Language x86-x64
+
 Windows 10 Education x86-x64
+
 Windows 10 Education N x86-x64
+
 Windows 10 Enterprise for Virtual Desktops x86-x64
+
 Windows 10 Enterprise x86-x64
+
 Windows 10 Enterprise N x86-x64
+
 Windows 10 IoT Enterprise x86-x64
 
 </details>
@@ -235,22 +250,39 @@ TPM: Доверенный платформенный модуль (TPM) верс
 <br />
 
 Windows 11 Home
+
 Windows 11 Home N
+
 Windows 11 Pro
+
 Windows 11 Pro N
+
 Windows 11 Home Single Language
+
 Windows 11 SE
+
 Windows 11 SE N
+
 Windows 11 Pro Education
+
 Windows 11 Pro N Education
+
 Windows 11 Pro for Workstations
+
 Windows 11 Pro N for Workstations
+
 Windows 11 Pro Single Language
+
 Windows 11 Education
+
 Windows 11 Education N
+
 Windows 11 Enterprise
+
 Windows 11 Enterprise N
+
 Windows 11 Enterprise multi-session
+
 Windows 11 IoT Enterprise
 
 </details>
