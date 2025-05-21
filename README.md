@@ -81,7 +81,9 @@ http://you.vipant.uz/
 <summary><strong>Windows builds:</strong></summary>
 <br />
 
-### ⚠️ Windows 10 22H2 (19045.5737) 64in2 x86/x64 by adguard (v25.04.09) [Ru/En]
+<details>
+<summary><strong>⚠️ Windows 10 22H2 (19045.5737) 64in2 x86/x64 by adguard (v25.04.09) [Ru/En]:</strong></summary>
+<br /> 
 Версия программы: 22H2 19045.5737
 
 Официальный сайт: [ссылка](https://support.microsoft.com/ru-ru/windows)
@@ -167,6 +169,9 @@ SHA-256: 01b4d7e1916f4537a226f713ec2730dbef19840c5c5cce0d3769c4a6e415b295
 Описание:
 
 Сборка сделана на основе оригинальных образов MSDN. Были интегрированы обновления по 8 апреля 2025 года. В ней нет никаких косметических изменений и ничего не вырезано.
+
+</details>
+
 
 
 </details>
