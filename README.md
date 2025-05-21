@@ -324,6 +324,8 @@ magnet:?xt=urn:btih:957784ffb49b130eb33c72a2834c1a5fdf84104b&tr=http%3A%2F%2Fbt0
 
 </details>
 
+</details>
+
 <details>
 <summary><strong>MInstAll</strong></summary>
 <br />
@@ -370,7 +372,6 @@ magnet:?xt=urn:btih:9f7a4c0c94a95680e40e0d38b1a65327308cd180&tr=http%3A%2F%2Fbt0
 
 </details>
 
-</details>
 
 ### You can contact me through:
 
