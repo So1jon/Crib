@@ -83,8 +83,11 @@ http://you.vipant.uz/
 
 ### ⚠️ Windows 10 22H2 (19045.5737) 64in2 x86/x64 by adguard (v25.04.09) [Ru/En]
 Версия программы: 22H2 19045.5737
+
 Официальный сайт: [ссылка](https://support.microsoft.com/ru-ru/windows)
+
 Официальный сайт сборщика:  [ссылка](https://forum.rg-adguard.net/threads/windows-10-version-22h2-with-update-19045-5737-aio-64in2-x86-x64-by-adguard-v25-04-09-en-ru.2633/)
+
 Язык интерфейса: русский, английский
 
 Лечение: требуется, но отсутствует
