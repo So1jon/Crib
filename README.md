@@ -23,4 +23,33 @@ irm https://get.activated.win | iex
 </details>
 
 
+<details>
+<summary><strong>ESET Online Update Servers:</strong></summary>
+<br />
+
+
+⚠️  Адреса обновления ⚠️ 
+
+🌐 Основной: 
+
+```bash
+https://20may.uz
+```
+🔒 Логин: 
+
+```bash
+VICTORY
+``` 
+🔑 Пароль: 
+
+```bash
+MAY
+``` 
+⚠️ Для старых версий используйте http
+
+</details>
+
+
+
+
 
