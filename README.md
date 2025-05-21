@@ -163,7 +163,7 @@ Windows 10 IoT Enterprise x86-x64
 </details>
 
 <details>
-<summary><strong>Контрольные суммы:</strong></summary>
+<summary><strong>Контрольные суммы образа ISO:</strong></summary>
 <br />
 
 ### en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x64_v25.04.09_by_adguard.iso
@@ -295,7 +295,7 @@ Windows 11 IoT Enterprise
 </details>
 
 <details>
-<summary><strong>Контрольные суммы:</strong></summary>
+<summary><strong>Контрольные суммы образа ISO:</strong></summary>
 <br />
 
 ### en-ru_windows_11_version_23h2_with_update_22631.5189_aio_36in1_x64_v25.04.09_by_adguard.iso
@@ -327,6 +327,49 @@ magnet:?xt=urn:btih:957784ffb49b130eb33c72a2834c1a5fdf84104b&tr=http%3A%2F%2Fbt0
 </details>
 
 <details>
+<summary><strong>WinPE</strong></summary>
+<br />
+
+### WinPE 11-10-8 Sergei Strelec (x86/x64/Native x86) 2025.04.24 [Ru]
+
+Версия программы: 2025.04.24
+Официальный сайт: [ссылка](https://support.microsoft.com/ru-ru/windows)
+Официальный сайт автора сборки:[Sergei Strelec](https://sergeistrelec.name/winpe_10_8/259-winpe-11-10-8-sergei-strelec-x86x64native-x86-20250424-русская-версия.html)
+Язык интерфейса: Русский
+
+Лечение: не требуется
+
+Системные требования:
+
+ОЗУ (оперативная память) от 1 GB / Native 512 MB
+Компьютер с возможностью загрузки с CD или USB
+
+<details>
+<summary><strong>Контрольные суммы образа ISO:</strong></summary>
+<br />
+
+Файл: WinPE11_10_8_Sergei_Strelec_x86_x64_2025.04.24_Russian.iso
+
+CRC-32: 299F4321
+
+MD5: 9908D960967FC9BE34D18E89F2D74A61
+
+SHA-1: 132D0269CB1B67FF3446A4780E806D1A620EA028
+
+Размер: 4.5 ГБ (4 831 051 776 байт)
+
+</details>
+
+Описание:
+Загрузочный диск на базе Windows 11, 10 и 8 PE - для обслуживания компьютеров, работы с жесткими дисками и разделами, резервного копирования и восстановления дисков и разделов, диагностики компьютера, восстановления данных, антивирусной профилактики и установки ОС Windows.
+
+
+</details>
+
+
+
+
+<details>
 <summary><strong>MInstAll</strong></summary>
 <br />
 
@@ -341,7 +384,7 @@ magnet:?xt=urn:btih:957784ffb49b130eb33c72a2834c1a5fdf84104b&tr=http%3A%2F%2Fbt0
 • Windows XP - 11
 
 <details>
-<summary><strong>Контрольные суммы:</strong></summary>
+<summary><strong>Контрольные суммы образа ISO:</strong></summary>
 <br />
 
 Файл: MInstAll v.07.04.2025 By Andreyonohov.iso
