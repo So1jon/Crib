@@ -333,8 +333,11 @@ magnet:?xt=urn:btih:957784ffb49b130eb33c72a2834c1a5fdf84104b&tr=http%3A%2F%2Fbt0
 ### WinPE 11-10-8 Sergei Strelec (x86/x64/Native x86) 2025.04.24 [Ru]
 
 Версия программы: 2025.04.24
+
 Официальный сайт: [ссылка](https://support.microsoft.com/ru-ru/windows)
+
 Официальный сайт автора сборки:[Sergei Strelec](https://sergeistrelec.name/winpe_10_8/259-winpe-11-10-8-sergei-strelec-x86x64native-x86-20250424-русская-версия.html)
+
 Язык интерфейса: Русский
 
 Лечение: не требуется
