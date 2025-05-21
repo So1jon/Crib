@@ -17,6 +17,9 @@ irm https://get.activated.win | iex
 ```
 • Выбираем, что нужно активировать
 
+• Пользуемся.
+
+
 </details>
 
 
