@@ -10,7 +10,9 @@
 
 • Открываем PowerShell (не CMD).
 
-• Вставляем туда ```bash
+• Вставляем туда 
+
+```bash
 irm https://get.activated.win | iex
 ```
 • Выбираем, что нужно активировать
