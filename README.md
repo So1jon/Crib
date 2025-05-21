@@ -166,7 +166,7 @@ Windows 10 IoT Enterprise x86-x64
 <summary><strong>Контрольные суммы образа ISO:</strong></summary>
 <br />
 
-### en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x64_v25.04.09_by_adguard.iso
+Файл: en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x64_v25.04.09_by_adguard.iso
 
 MD5: b16765f127a94c8511ea4978ec0912d9
 
@@ -174,13 +174,19 @@ SHA-1: a7c40b8f9b9ecc53dd5e1c5e9a1c7e54cc0dfea4
 
 SHA-256: e69eda2b72112106511e92af0ee464cb14db8f72069670044fe700de8d4593d4
 
-### en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x86_v25.04.09_by_adguard.iso
+Размер: 5.41 ГБ (5 806 098 432 байт)
+
+
+Файл: en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x86_v25.04.09_by_adguard.iso
 
 MD5: 1b47bf35c11824eec81c98f02f97504c
 
 SHA-1: 6ee41b605131e7313b2a4a1165a764c30486bdcd
 
 SHA-256: 01b4d7e1916f4537a226f713ec2730dbef19840c5c5cce0d3769c4a6e415b295
+
+Размер: 3.82 ГБ (4 105 660 416 байт)
+
 
 </details>
 
@@ -298,13 +304,16 @@ Windows 11 IoT Enterprise
 <summary><strong>Контрольные суммы образа ISO:</strong></summary>
 <br />
 
-### en-ru_windows_11_version_23h2_with_update_22631.5189_aio_36in1_x64_v25.04.09_by_adguard.iso
+Файл: en-ru_windows_11_version_23h2_with_update_22631.5189_aio_36in1_x64_v25.04.09_by_adguard.iso
 
 MD5: db6e9d43fdd766a3839abfbebb5ba135
 
 SHA-1: 3a270c8a3474d4273707471e7191dba0e10ba334
 
 SHA-256: 9322da13bc9a99cbc7ec89ac5947f0dacc1889e817144fd9cc8b7e606d6a36d2
+
+Размер: 5.77 ГБ (6 200 782 848 байт)
+
 
 </details>
 
