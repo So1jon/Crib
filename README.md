@@ -35,17 +35,44 @@ irm https://get.activated.win | iex
 ```bash
 https://20may.uz
 ```
+
+```bash
+https://you.vipant.uz/
+```
+
 🔒 Логин: 
 
 ```bash
 VICTORY
 ``` 
+
+```bash
+EAV-073911637
+``` 
+
 🔑 Пароль: 
 
 ```bash
 MAY
 ``` 
+
+```bash
+g7mrThad
+``` 
+
+
 ⚠️ Для старых версий используйте http
+
+🌐 Для старых: 
+
+```bash
+http://20may.uz
+```
+
+```bash
+http://you.vipant.uz/
+```
+
 
 </details>
 
