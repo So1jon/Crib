@@ -4,11 +4,6 @@
 
 [![GitHub all releases](https://img.shields.io/github/downloads/So1jon/Crib/total?style=flat&logo=github&logoColor=white&color=1A91FF)](https://github.com/So1jon/Crib/releases)
 
-<details>
-
-
-
-<details>
 
 <details>
 <summary><strong>Microsoft Activation Scripts (MAS):</strong></summary>
