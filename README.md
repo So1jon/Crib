@@ -146,7 +146,7 @@ Windows 10 IoT Enterprise x86-x64
 <summary><strong>Контрольные суммы:</strong></summary>
 <br />
 
-en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x64_v25.04.09_by_adguard.iso
+### en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x64_v25.04.09_by_adguard.iso
 
 MD5: b16765f127a94c8511ea4978ec0912d9
 
@@ -154,7 +154,7 @@ SHA-1: a7c40b8f9b9ecc53dd5e1c5e9a1c7e54cc0dfea4
 
 SHA-256: e69eda2b72112106511e92af0ee464cb14db8f72069670044fe700de8d4593d4
 
-en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x86_v25.04.09_by_adguard.iso
+### en-ru_windows_10_version_22h2_with_update_19045.5737_aio_32in1_x86_v25.04.09_by_adguard.iso
 
 MD5: 1b47bf35c11824eec81c98f02f97504c
 
