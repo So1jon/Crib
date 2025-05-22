@@ -91,6 +91,7 @@ http://you.vipant.uz/
 <details>
 <summary><strong>⚠️ Windows 10 22H2 (19045.5737) 64in2 x86/x64 by adguard (v25.04.09) [Ru/En]:</strong></summary>
 <br /> 
+
 Версия программы: 22H2 19045.5737
 
 Официальный сайт: [ссылка](https://support.microsoft.com/ru-ru/windows)
@@ -217,6 +218,7 @@ magnet:?xt=urn:btih:ef26f4470a947ff2a4a704a035ba90c2b8964d22&tr=http%3A%2F%2Fbt0
 <details>
 <summary><strong>⚠️ Windows 11 23H2 (22631.5189) 36in1 (x64) by adguard (v25.04.09) [Ru/En]:</strong></summary>
 <br /> 
+
 Версия программы:  23H2 22631.5189
 
 Официальный сайт: [ссылка](https://support.microsoft.com/ru-ru/windows)
