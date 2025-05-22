@@ -346,7 +346,9 @@ magnet:?xt=urn:btih:957784ffb49b130eb33c72a2834c1a5fdf84104b&tr=http%3A%2F%2Fbt0
 <summary><strong>WinPE</strong></summary>
 <br />
 
-### WinPE 11-10-8 Sergei Strelec (x86/x64/Native x86) 2025.04.24 [Ru]
+<details>
+<summary><strong>⚠️ WinPE 11-10-8 Sergei Strelec (x86/x64/Native x86) 2025.04.24 [Ru]</strong></summary>
+<br /> 
 
 Версия программы: 2025.04.24
 
@@ -393,6 +395,7 @@ magnet:?xt=urn:btih:82609440bfb03b40270d9ec76f106553b99e9840&tr=http%3A%2F%2Fbt0
 Описание:
 Загрузочный диск на базе Windows 11, 10 и 8 PE - для обслуживания компьютеров, работы с жесткими дисками и разделами, резервного копирования и восстановления дисков и разделов, диагностики компьютера, восстановления данных, антивирусной профилактики и установки ОС Windows.
 
+</details>
 
 </details>
 
