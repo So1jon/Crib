@@ -627,7 +627,7 @@ SamLab, давно являясь членом команды Bashrat, имее�
 <br />
 
 <details>
-<summary><strong>⚠️ Adobe Master Collection 2025 v6 by moonkrus RUS-ENG  </strong></summary>
+<summary><strong>⚠️ Adobe Master Collection 2025 v7 by moonkrus RUS-ENG  </strong></summary>
 <br />
 
 Год выпуска: 2025
