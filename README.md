@@ -630,9 +630,13 @@ SamLab, давно являясь членом команды Bashrat, имее�
 <summary><strong>⚠️ Adobe Master Collection 2025 v6 by moonkrus RUS-ENG  </strong></summary>
 <br />
 
-Версия / Дата Выпуска:2024/v6
+Год выпуска: 2025
 
-Разработчики:  [monkrus](https://w16.monkrus.ws)
+Версия: 7.0
+
+Разработчик:  [Adobe](https://www.adobe.com)
+
+Автор сборки: [monkrus](https://w16.monkrus.ws)
 
 Разрядность: 64 bit
 
@@ -704,13 +708,13 @@ SamLab, давно являясь членом команды Bashrat, имее�
 <summary><strong>Контрольные суммы образа ISO:</strong></summary>
 <br />
 
-Файл: Adobe.Master.Collection.2025.v6.RU-EN.iso
+Файл: Adobe.Master.Collection.2025.v7.RU-EN.iso
 
-MD5-сумма образа: 3e4d5678b31b614b922554d9917bfd1a
+MD5-сумма образа: 11e76b641d82ef51de991c6c85729261
 
-SHA1-сумма образа: 1c1ea1ee3e532e727d5ef22d6ddc9c6645d3718c
+SHA1-сумма образа: d294530ea09b7b13a7b20eaa97d3644a9eb35c67
 
-Размер: 37,4 ГБ (40 204 818 432 байт)
+Размер: 37,4 ГБ (40 216 492 032 байт)
 
 </details>
 
@@ -719,7 +723,7 @@ SHA1-сумма образа: 1c1ea1ee3e532e727d5ef22d6ddc9c6645d3718c
 <br />
 
 ```bash
-magnet:?xt=urn:btih:c4aa22921c814e037843bd3eb6222dff1ec8da23&tr=https%3A%2F%2Ftr7.toperme.com%2Fannounce.php
+magnet:?xt=urn:btih:9fdc0b9f792978ab2dd03963d6990694c501aa35&tr=https%3A%2F%2Ftr7.toperme.com%2Fannounce.php
 ``` 
 
 </details>
