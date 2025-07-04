@@ -541,7 +541,7 @@ SHA-1: 9CFA55CA54AB60D152358B9EC1F2DA6918692100
 <br />
 
 ```bash
-magnet:?xt=urn:btih:9f7a4c0c94a95680e40e0d38b1a65327308cd180&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d45283385770519a365230436e42f5%2Fannounce&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d45283385770519a365230436e42f5%2Fannounce
+magnet:?xt=urn:btih:34bc2d137561a078e9d303f6000aff9fa8094fb7&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d45283f002ce81e2805f9c216730b0%2Fannounce&tr=http%3A%2F%2Fbt02.nnm-club.cc%3A2710%2F00d45283f002ce81e2805f9c216730b0%2Fannounce
 ``` 
 
 </details>
