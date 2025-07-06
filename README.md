@@ -343,7 +343,7 @@ magnet:?xt=urn:btih:957784ffb49b130eb33c72a2834c1a5fdf84104b&tr=http%3A%2F%2Fbt0
 </details>
 
 <details>
-<summary><strong>⚠️ Windows 11 24H2 (26100.3775) 36in1 (x64) by adguard (v25.04.09) [Ru/En]:</strong></summary>
+<summary><strong>⚠️ Windows 11 24H2 (26100.3775) 38in1 (x64) by adguard (v25.04.09) [Ru/En]:</strong></summary>
 <br /> 
 
 Версия программы:  24H2 226100.3775
