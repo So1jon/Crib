@@ -797,7 +797,10 @@ magnet:?xt=urn:btih:9f7a4c0c94a95680e40e0d38b1a65327308cd180&tr=http%3A%2F%2Fbt0
 <summary><strong>SamDrivers </strong></summary>
 <br />
 
-### SamDrivers 25.4 Сборник драйверов для Windows [Multi/Ru]
+
+<details>
+<summary><strong>⚠️ SamDrivers 25.4 Сборник драйверов для Windows [Multi/Ru] </strong></summary>
+<br />
 
 Версия программы: 25.4
 
@@ -860,6 +863,8 @@ magnet:?xt=urn:btih:28c2fc561f99bef2f7a759842147aa47e899af58&tr=http%3A%2F%2Fbt0
 DriverPack Solution 16.20 Plus / Drivers Installer Assistant 8.02.20 / Snappy Driver Installer 1.25.3 / DriverPack 17.10.14 / оболочка для бекапа драйверов Drivers Backup Solution 3.90.21.
 В сборник включены самые актуальные драйверы, на дату релиза, собранные лично SamLab. Не путать этот пакет с драйвер-паками от Bashrat'a - эти драйверы новее и стабильнее.
 SamLab, давно являясь членом команды Bashrat, имеет возможность, зная о всех проблемах аналогичных пакетов драйверов, создавать свой набор, наиболее полным и бесконфликтным!
+
+</details>
 
 
 </details>
