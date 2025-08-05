@@ -582,11 +582,15 @@ magnet:?xt=urn:btih:82609440bfb03b40270d9ec76f106553b99e9840&tr=http%3A%2F%2Fbt0
 
 </details>
 
+
 <details>
-<summary><strong>BELOFF</strong></summary>
+<summary><strong> BELOFF </strong></summary>
 <br />
 
-### BELOFF 2025.04 [MInstAll & WPI/FULL]
+
+<details>
+<summary><strong>⚠️ BELOFF 2025.04 [MInstAll & WPI/FULL] </strong></summary>
+<br />
 
 Версия / Дата Выпуска:2025.04
 
@@ -632,6 +636,9 @@ magnet:?xt=urn:btih:F59122467914E96E502A627D278EF1CB9F56CEA6
 Для большего удобства использования Сборника добавлена Мультизагрузка.
 
 </details>
+
+</details>
+
 
 
 <details>
