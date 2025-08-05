@@ -588,10 +588,10 @@ magnet:?xt=urn:btih:82609440bfb03b40270d9ec76f106553b99e9840&tr=http%3A%2F%2Fbt0
 <br />
 
 <details>
-<summary><strong>⚠️ BELOFF 2025.04 [MInstAll & WPI/FULL] </strong></summary>
+<summary><strong>⚠️ BELOFF 2025.08 [MInstAll & WPI/FULL] </strong></summary>
 <br />
 
-Версия / Дата Выпуска:2025.04
+Версия / Дата Выпуска:2025.08
 
 Разработчики: BELOFF
 
@@ -607,15 +607,15 @@ magnet:?xt=urn:btih:82609440bfb03b40270d9ec76f106553b99e9840&tr=http%3A%2F%2Fbt0
 <summary><strong>Контрольные суммы образа ISO:</strong></summary>
 <br />
 
-Файл: BELOFF_2O25.O4.ISO
+Файл: BELOFF_2O25.O8.ISO
 
 CRC32: FFFFFFFF
 
-MD5: B7686287518180B0D4892FF2F5D488E9
+MD5: 16C256ABB1AB6F7C59D1C4981FAB1535
 
-SHA-1: 558C81E15505A9BE3087F0A99F85B8F8399BC7F3
+SHA-1: C409D0FADDB0AC075B2F6DE0510D4468572C3BF7
 
-Размер: 171.35 ГБ (183 992 532 992 байт)
+Размер: 178.08 ГБ (191 213 041 664 байт)
 
 </details>
 
@@ -624,7 +624,7 @@ SHA-1: 558C81E15505A9BE3087F0A99F85B8F8399BC7F3
 <br />
 
 ```bash
-magnet:?xt=urn:btih:F59122467914E96E502A627D278EF1CB9F56CEA6
+magnet:?xt=urn:btih:9db330530150b50e23f23bbdca1c53088001fc3e&tr=https%3A%2F%2Ftr7.toperme.com%2Fannounce.php
 ``` 
 
 </details>
