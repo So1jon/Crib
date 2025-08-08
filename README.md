@@ -970,7 +970,7 @@ SHA1-сумма образа: bc26467f98972c14b70993b80533edb018d22c16
 <br />
 
 ```bash
-magnet:?xt=urn:btih:9fdc0b9f792978ab2dd03963d6990694c501aa35&tr=https%3A%2F%2Ftr7.toperme.com%2Fannounce.php
+magnet:?xt=urn:btih:89386fb7e3ff509d6b91676532bab4dca22f3448&tr=https%3A%2F%2Ftr7.toperme.com%2Fannounce.php
 ``` 
 
 </details>
