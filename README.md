@@ -17,11 +17,18 @@
 
 • Открываем PowerShell (не CMD).
 
-• Вставляем туда 
+• Вставляем туда - для Windows 8, 10, 11:
 
 ```bash
 irm https://get.activated.win | iex
 ```
+
+• Вставляем туда - для Windows 7:
+
+```bash
+iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
+```
+
 • Выбираем, что нужно активировать
 
 • Пользуемся.
