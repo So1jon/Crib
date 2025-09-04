@@ -47,28 +47,17 @@ iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
 🌐 Основной: 
 
 ```bash
-https://20may.uz
-```
-
-```bash
 https://you.vipant.uz/
 ```
 
 🔒 Логин: 
 
-```bash
-VICTORY
-``` 
 
 ```bash
 EAV-92746381
 ``` 
 
 🔑 Пароль: 
-
-```bash
-MAY
-``` 
 
 ```bash
 lop7xir3me
@@ -78,10 +67,6 @@ lop7xir3me
 ⚠️ Для старых версий используйте http
 
 🌐 Для старых: 
-
-```bash
-http://20may.uz
-```
 
 ```bash
 http://you.vipant.uz/
