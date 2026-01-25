@@ -47,7 +47,7 @@ iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
 🌐 Основной: 
 
 ```bash
-https://you.vipant.uz/
+http://madr0b0t.lol/
 ```
 
 🔒 Логин: 
@@ -69,7 +69,7 @@ lop7xir3me
 🌐 Для старых: 
 
 ```bash
-http://you.vipant.uz/
+http://178.208.254.120
 ```
 
 
