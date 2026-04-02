@@ -47,7 +47,7 @@ iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
 🌐 Актуальные данные : 
 
 ```bash
-http://madr0b0t.lol/](http://noddddd.amx-moscow.netcraze.pro:2221
+http://noddddd.amx-moscow.netcraze.pro:2221
 ```
 
 🔒 Логин: 
