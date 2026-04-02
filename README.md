@@ -44,25 +44,30 @@ iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
 
 ⚠️  Адреса обновления ⚠️ 
 
-🌐 Основной: 
+🌐 Актуальные данные : 
 
 ```bash
-http://madr0b0t.lol/
+http://madr0b0t.lol/](http://noddddd.amx-moscow.netcraze.pro:2221
 ```
 
 🔒 Логин: 
 
 
 ```bash
-EAV-92746381
+repack
 ``` 
 
 🔑 Пароль: 
 
 ```bash
-lop7xir3me
+repack
 ``` 
 
+🌐 Основной : 
+
+```bash
+http://madr0b0t.lol/
+```
 
 ⚠️ Для старых версий используйте http
 
