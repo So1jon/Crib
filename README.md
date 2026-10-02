@@ -66,7 +66,7 @@ repack
 🌐 Основной : 
 
 ```bash
-http://madr0b0t.lol/
+http://madr0b0t.top
 ```
 
 ⚠️ Для старых версий используйте http
